@@ -1,0 +1,15 @@
+python
+hangman
+secret
+guess
+programming
+development
+computer
+network
+terminal
+keyboard
+function
+variable
+string
+integer
+random
