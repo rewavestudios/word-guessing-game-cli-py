@@ -22,30 +22,6 @@ The player has a limited number of wrong attempts (default: 6).
 - Input validation and helpful prompts
 
 ## Requirements
-# Word Guessing Game
-
-A simple command-line word guessing game. The program picks a secret word
-from a `words.txt` file and the player guesses the word one letter at a time.
-The player has a limited number of wrong attempts (default: 6).
-
-## Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Gameplay Example](#gameplay-example)
-- [Prepare your word list](#prepare-your-word-list)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- Single-player CLI game
-- Configurable words file and attempts
-- Input validation and helpful prompts
-
-## Requirements
 
 - Python 3.6 or newer
 
